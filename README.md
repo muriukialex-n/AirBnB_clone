@@ -263,7 +263,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```
 ## Authors
 <details>
-    <summary>Ayomide Suara</summary>
+    <summary>Alex Muriuki</summary>
     <ul>
     <li><a href="https://www.github.com/muriukialex-n">Github</a></li>
     <li><a href="https://www.twitter.com/muriuki_alex52">Twitter</a></li>
